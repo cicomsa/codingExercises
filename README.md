@@ -8,7 +8,7 @@ Ex: ```['code', 'life', 'cdoe', 'lfie']``` -> ```['code', 'life']```
 
 Note: values are case sensitive
 
-## Exercise one
+## Exercise two
 
 Find the users who were signed in for more than a given span time
 
