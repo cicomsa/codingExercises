@@ -6,5 +6,5 @@ const span = 5
 const result = ['99', '100']
 
 test("Test returns only the users who's time is less than span", () => {
-  expect(logic(array, span)).toEqual(result);
+  expect(logic(array, span)).toEqual(result)
 })
