@@ -20,7 +20,7 @@ const array2 = [
 ]
 const result2 = 0
 
-test("Test returns only the users who's time is less than span", () => {
+test("Test returns the highest sum of the hourglass", () => {
   expect(logic(array1)).toEqual(result1)
   expect(logic(array2)).toEqual(result2)
 })
