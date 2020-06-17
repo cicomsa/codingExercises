@@ -1,5 +1,5 @@
 
-const logic = require('../logicOne')
+const logic = require('../exerciseOne')
 
 const array1 = ["code", "anagrams", "aangrams", "cdoe", "que"]
 const result1 = ["code", "anagrams", "que"]

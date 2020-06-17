@@ -1,5 +1,5 @@
 
-const logic = require('../logicTwo')
+const logic = require('../exerciseTwo')
 
 const array = ['99 1 sign_in', '100 10 sign_in', '50 20 sign_in', '100 15 sign_out', '50 26 sign_out', '99 2 sign_out']
 const span = 5
