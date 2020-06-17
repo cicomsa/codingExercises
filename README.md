@@ -4,7 +4,11 @@
 
 Find the matching anagrams and return only the first one from the patching pair. (An anagram is a word or phrase that's formed by rearranging the letters of another word or phrase.)
 
-Ex: ```['code', 'life', 'cdoe', 'lfie']``` -> ```['code', 'life']```
+Example data: 
+
+```array: ['code', 'life', 'cdoe', 'lfie']```
+
+Result: ```['code', 'life']```
 
 Note: values are case sensitive
 
