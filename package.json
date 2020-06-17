@@ -1,0 +1,14 @@
+{
+  "name": "lingumi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon lingumi.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.0.1",
+    "nodemon": "^2.0.4"
+  }
+}
