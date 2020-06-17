@@ -1,22 +1,20 @@
 const logic = shape => {
-  let results = []
+  const shapeArray = shape.split('')
   let start = 0
+  let count = 0
 
-  let value = shape.replace(/U/g, '1,')
-  value = value.replace(/D/g, '-1,')
-
-  let shapeArray = value.split(',').filter(el => el !== '')
-  shapeArray = shapeArray.map(el => Number(el))
-
-  const reduced = shapeArray.map((a, i) => {
-    start += a
-
-    if (start === -1 && a === -1) {
-      results.push(start)
+  shapeArray.map(el => {
+    if (el === 'U') {
+      start++
+    } else {
+      start--
+      if (start === -1) {
+        count++
+      }
     }
   })
 
-  return results.length
+  return count
 }
 
 module.exports = logic

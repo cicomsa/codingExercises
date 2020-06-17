@@ -10,9 +10,7 @@ const logic = array => {
     return unique
   }, {})
 
-  const keys = Object.keys(unique)
-
-  keys.map(key => {
+  Object.keys(unique).map(key => {
     const value = unique[key].length / 2
     result += Math.floor(value)
   })
