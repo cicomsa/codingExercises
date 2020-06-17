@@ -37,5 +37,13 @@ Example data:
 
 Result: ```[4, 1, 2, 3]```
 
-## Exercise four
+## Exercise five
+
+A given array has common values. Find how many pairs of common values are inside the array.
+
+Exemple data: 
+
+```array: [10, 20, 20, 10, 10, 30, 50, 10, 20]```
+
+Result: ```3``` (two pairs of ```10``` and one pair of ```20```)
 

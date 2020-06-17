@@ -1,10 +1,10 @@
 {
-  "name": "lingumi",
+  "name": "exercises",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon lingumi.js",
+    "start": "nodemon ./exercises/exerciseFive.js",
     "test": "jest"
   },
   "dependencies": {
