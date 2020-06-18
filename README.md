@@ -37,6 +37,16 @@ Example data:
 
 Result: ```[4, 1, 2, 3]```
 
+## Exercise four
+
+An hourglass is defined as the follwing matrix:
+
+```[1,2,3]```
+  ```[3]```
+```[1,2,3]```
+
+Find all the hourglasses in a given array. Calculate the sum of each individual hourglass, and return the sum value which is the highest out of all hourglasses.
+
 ## Exercise five
 
 A given array has common values. Find how many pairs of common values are inside the array.
