@@ -39,13 +39,13 @@ Result: ```[4, 1, 2, 3]```
 
 ## Exercise four
 
-An hourglass is defined as the follwing matrix:
+An hourglass is defined as the follwing shape:
 
 ```[1,2,3]```
   ```[3]```
 ```[1,2,3]```
 
-Find all the hourglasses in a given array. Calculate the sum of each individual hourglass, and return the sum value which is the highest out of all hourglasses.
+Find all the hourglasses in a given 2D 6x6 array. Calculate the sum of each individual hourglass, and return the sum value which is the highest out of all hourglasses.
 
 ## Exercise five
 
@@ -57,3 +57,12 @@ Exemple data:
 
 Result: ```3``` (two pairs of ```10``` and one pair of ```20```)
 
+## Exercise seven
+
+Get the first ```n``` numbers of the Fibonacci list of numbers and return the ```nth``` number. 
+
+Example data: 
+
+```n = 6```
+
+Result: ```5```
