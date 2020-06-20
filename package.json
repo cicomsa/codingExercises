@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon ./exercises/exerciseEight.js",
+    "start": "nodemon ./exercises/exerciseNine.js",
     "test": "jest"
   },
   "dependencies": {
