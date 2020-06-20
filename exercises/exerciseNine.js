@@ -8,7 +8,28 @@ const logic = array => {
     return results
   }, [])
 
-  return results.length
+  return results.length - 1
 }
+
+// let count = -1
+// let i = 0
+// while (i < c.length) {
+//   count += 1
+//   if (i < c.length - 2 && c[i + 2] == 0) i += 1
+//   i += 1
+// }
+// return count
+
+// let jumps = 0
+// for (let i = 0; i < c.length - 1; i++) {
+//   if (c[i] === 1) {
+//     continue
+//   } else if ((c[i + 1] == 0 && c[i + 2] == 0)) {
+//     i += 1;
+//   }
+//   jumps++
+// }
+// return jumps
+
 
 module.exports = logic
