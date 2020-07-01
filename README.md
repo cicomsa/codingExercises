@@ -57,6 +57,17 @@ Exemple data:
 
 Result: ```3``` (two pairs of ```10``` and one pair of ```20```)
 
+## Exercise six
+
+Given a string which includes the values ```U``` and ```D``` only and which revelas the journey of a counter. Find out how many times the counter value fell under ```0``` given the fact that:
+
+* ```U = +1``` 
+* ```D = -1```
+
+Example data: ```UDUUUDDDU```
+Counter journey: ```1 - 1 + 1 + 1 + 1 - 1 -1 - 1 + 1```
+Result: ```0```
+
 ## Exercise seven
 
 Get the first ```n``` numbers of the Fibonacci list of numbers and return the ```nth``` number. 
