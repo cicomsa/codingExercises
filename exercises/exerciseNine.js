@@ -8,7 +8,7 @@ const logic = array => {
     return results
   }, [])
 
-  return results.length - 1
+  return results.length
 }
 
 // let count = -1
