@@ -114,3 +114,7 @@ An array of numbers is given which reflects changes that were made to an ascendi
 * each change was made only by one element
 * each element can make move to the left maximum 2 indexes. Ex: index 5 can become index 4 or index 3 only. If element moved more than 2 indexes, 'Too chaotic' should be the return value instead
 * Each index change counts as one movement. Ex: if index 5 value becomes index 4 value, the change number equals 1; if index 5 value becomes index 3 value, the change number equals 2.
+
+## Exercise eleven
+
+Given a 2D array, calculate the sum of the array diagonals and return the absolute difference of these sums.
