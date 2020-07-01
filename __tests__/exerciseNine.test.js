@@ -18,7 +18,7 @@ const array4 = [
 ]
 const result4 = 28
 
-test("Test the shortest total number of jumps", () => {
+test("Returns the shortest total number of jumps", () => {
   expect(logic(array1)).toEqual(result1)
   expect(logic(array2)).toEqual(result2)
   expect(logic(array3)).toEqual(result3)

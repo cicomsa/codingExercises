@@ -16,9 +16,9 @@ const string4 = 'sdfsd'
 const number4 = 1000
 const result4 = 0
 
-test("Test returns pair number of common values", () => {
+test("Returns pair number of common values", () => {
   expect(logic(string1, number1)).toEqual(result1)
-  // expect(logic(string2, number2)).toEqual(result2)
-  // expect(logic(string3, number3)).toEqual(result3)
-  // expect(logic(string4, number4)).toEqual(result4)
+  expect(logic(string2, number2)).toEqual(result2)
+  expect(logic(string3, number3)).toEqual(result3)
+  expect(logic(string4, number4)).toEqual(result4)
 })
