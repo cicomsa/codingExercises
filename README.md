@@ -67,6 +67,27 @@ Example data:
 
 Result: ```5```
 
+## Exercise eight
+
+String A is given and a number of charcters string B should have. String B is made of String A based on the number of characters it has. Count as many times ```a``` is found in String B. 
+
+Example data:
+
+1.
+
+```stringA = 'aba'```
+```stringBNum = 10```
+```stringB = 'abaabaabaa'``` meaning ```aba + aba + aba + a -> 10 characters```
+
+Result: ```7```
+
+2.
+
+```stringA = 'ababasdkbhkqaskjd'```
+```stringBNum = 6```
+```stringB = 'ababas'``` meaning ```ababas -> 6 characters```
+
+Result: ```3```
 
 ## Exercise nine
 
