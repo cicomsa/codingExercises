@@ -66,3 +66,19 @@ Example data:
 ```n = 6```
 
 Result: ```5```
+
+
+## Exercise nine
+
+An array of 0s and 1s is given. Get the minimum number of times it takes to reach the end of the array by jumping from one 0 to another 0 given the fact that:
+
+* from one 0, you can jump accross maximum of 2 indexes. Ex: if index 1 = 0, one can jump from index 1 to index 2 or index 3 only.
+* you cannot land on an index of which value equals 1
+
+## Exercise ten
+
+An array of numbers is given which reflects changes that were made to an ascending sorted array. Get the number of changes made from the sorted array to the current array given the fact that:
+
+* each change was made only by one element
+* each element can make move to the left maximum 2 indexes. Ex: index 5 can become index 4 or index 3 only. If element moved more than 2 indexes, 'Too chaotic' should be the return value instead
+* Each index change counts as one movement. Ex: if index 5 value becomes index 4 value, the change number equals 1; if index 5 value becomes index 3 value, the change number equals 2.
