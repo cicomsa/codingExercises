@@ -118,3 +118,7 @@ An array of numbers is given which reflects changes that were made to an ascendi
 ## Exercise eleven
 
 Given a 2D array, calculate the sum of the array diagonals and return the absolute difference of these sums.
+
+## Exercise twelve - recursion
+
+Given an array which includes multiple nested arrays, flatten the array to a one dimensional array.
