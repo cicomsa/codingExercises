@@ -1,9 +1,3 @@
-const array = [
-  [11, 2, 4],
-  [4, 5, 6],
-  [10, 8, -12]
-]
-
 const logic = array => {
   let sum1 = 0, sum2 = 0
 
@@ -21,7 +15,5 @@ const logic = array => {
 
   return result
 }
-
-logic(array)
 
 module.exports = logic

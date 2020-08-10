@@ -122,3 +122,7 @@ Given a 2D array, calculate the sum of the array diagonals and return the absolu
 ## Exercise twelve - recursion
 
 Given an array which includes multiple nested arrays, flatten the array to a one dimensional array.
+
+## Exercise thirteen
+
+Find the number of zeros that can be found at the end of a given number
