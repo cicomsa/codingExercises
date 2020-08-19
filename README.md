@@ -125,4 +125,8 @@ Given an array which includes multiple nested arrays, flatten the array to a one
 
 ## Exercise thirteen
 
-Find the number of zeros that can be found at the end of a given number
+Find the number of zeros that can be found at the end of a given number.
+
+## Exercise fourteen
+
+Return the first word from a given text.
