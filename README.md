@@ -130,3 +130,15 @@ Find the number of zeros that can be found at the end of a given number.
 ## Exercise fourteen
 
 Return the first word from a given text.
+
+## Exercise fifthteen
+
+Given an array, return the array based on the elements frequency. If two elements have the same amount of frequency, return the elements in the order of their appearance in the original array:
+
+Example data:
+
+````[3, 2, 4, 4, 4, 2, 3]```
+
+Result:
+
+```[4, 4, 4, 3, 3, 2, 2]```
