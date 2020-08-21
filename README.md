@@ -137,8 +137,8 @@ Given an array, return the array based on the elements frequency. If two element
 
 Example data:
 
-````[3, 2, 4, 4, 4, 2, 3]```
+````array: [3, 2, 4, 4, 4, 2, 3]```
 
 Result:
 
-```[4, 4, 4, 3, 3, 2, 2]```
+```array: [4, 4, 4, 3, 3, 2, 2]```
