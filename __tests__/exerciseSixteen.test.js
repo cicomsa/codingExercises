@@ -5,7 +5,7 @@ const result1 = 'Why RE YOU sking me thT?'
 const text2 = 'Always wanted to visit Zambia.'
 const result2 = 'AlwYS Wnted to visit ZMBI.'
 
-test("Returns pair number of common values", () => {
+test("Returns an edited version of text based on a given rule", () => {
   expect(logic(text1)).toEqual(result1)
   expect(logic(text2)).toEqual(result2)
 })

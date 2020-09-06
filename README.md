@@ -155,4 +155,14 @@ Result:
 
 ```text: 'AlwYS Wnted to visit ZMBI.'```
 
+## Exercise Seventeen
+
+Given a text, return its most common letter. If there are more than one of them, return the first letter of those letters based on their alphabetical order.
+
+Example data:
+
+```text: 'Lorem ipsum dolor sit amet!'```
+
+Result: ```m```
+
 
