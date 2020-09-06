@@ -142,3 +142,17 @@ Example data:
 Result:
 
 ```array: [4, 4, 4, 3, 3, 2, 2]```
+
+## Exercise sixteen
+
+Given a text, return its version written as such so that instead of writing the letter ```a``` whenever it occurs, the writter presses the CAPS LOCK key instead.
+
+Example data:
+
+```text: 'Why are you asking me that?'```
+
+Result:
+
+```text: 'AlwYS Wnted to visit ZMBI.'```
+
+
